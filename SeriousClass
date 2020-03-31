@@ -1,0 +1,30 @@
+[33mcommit 43b4eb47eac40559e849f37e59a10274c21142f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 8bf0bee fc0e1a7
+Author: Dylan <dxs5670@psu.edu>
+Date:   Tue Mar 31 14:15:54 2020 -0400
+
+    Merge branch 'master' of https://github.com/dxs5670/gitbasic
+
+[33mcommit 8bf0beed5509f16c80eff066bfc5d5a44a639a12[m
+Author: Dylan <dxs5670@psu.edu>
+Date:   Tue Mar 31 14:14:11 2020 -0400
+
+    added a cool function
+
+[33mcommit fc0e1a795378e36666fdb8acc0777994f18f9b23[m
+Author: Dylan <53993453+dxs5670@users.noreply.github.com>
+Date:   Tue Mar 31 14:11:11 2020 -0400
+
+    This is a serious class
+
+[33mcommit 595a86ecba01743c6b436a3c4acd5cb7242c3527[m
+Author: Dylan <dxs5670@psu.edu>
+Date:   Tue Mar 31 14:08:05 2020 -0400
+
+    The hello.java class has been added
+
+[33mcommit e516a02d9a07d0f86e4cc9355d8f8192da79ca29[m
+Author: Dylan <dxs5670@psu.edu>
+Date:   Tue Mar 31 13:59:19 2020 -0400
+
+    an introduntion to git bash
