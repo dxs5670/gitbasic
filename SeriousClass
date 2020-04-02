@@ -1,5 +1,9 @@
 public class SeriousClass {
 
+  public logIn(String uname, String pw) {
+    return -1;
+  }
+
   public SeriousClass(){
     System.out.println("This is a serious class");
   
